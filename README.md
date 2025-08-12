@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Machine Learning projects and taking part in hackathons.<br>I am learning JavaScript and CSS as I would like to do Frontend Dev.<br>I am looking to collaborate with people in hackathons and looking for internships this year.<br>Fun fact: I play basketball other than coding<br>I would love some help on how to join GSoC and other open-source programs.I like contributing to open source programs
+I am currently working on Machine Learning projects and taking part in hackathons.<br>I am learning JavaScript and Golang.<br>I am looking to meet new people and travel a lot.<br>Fun fact: I play basketball other than coding
 
 
 ## 🌐 Socials:
